@@ -67,8 +67,7 @@ This toolkit provides everything instructors need to successfully market AI Upgr
 ---
 
 ### Peter Bittner (Systematic Frameworks)
-**Teaching:** Creative Professionals, Sales Leaders, Healthcare, HR, Legal, Journalists (co-instructor)
-**NOT Teaching:** PR & Communications (Pete Pachal's exclusive territory)
+**Teaching:** All 7 programs (Creative Professionals, PR & Communications, Sales Leaders, Journalists, Healthcare, HR, Legal)
 
 **Voice:** Patient educator, "few weeks ahead" philosophy, evidence-based optimism
 **Unique Advantage:** UC Berkeley network, systematic methodology (POP Framework), Mongolia storytelling
@@ -78,7 +77,6 @@ This toolkit provides everything instructors need to successfully market AI Upgr
 
 ### Pete Pachal (Media Industry Specialist)
 **Primary:** PR & Communications, Journalists
-**Exclusive Territory:** PR & Comms (Pete only, not Kris or Peter)
 
 **Voice:** Media industry insider, grounded vs. ungrounded tools expert, data-driven insights
 **Unique Advantage:** Media Copilot newsletter (12,000+ subscribers), expected 50-70% enrollments from newsletter feature
@@ -132,7 +130,7 @@ instructor-toolkit-2026/
 | Program | Primary Instructor | Co-Instructors | Target Audience |
 |---------|-------------------|----------------|-----------------|
 | **Creative Professionals** | Kris Krug | Peter Bittner | Designers, photographers, content creators |
-| **PR & Communications** | Pete Pachal | (Pete exclusive) | PR pros, comms managers, media relations |
+| **PR & Communications** | Pete Pachal | Peter Bittner | PR pros, comms managers, media relations |
 | **Sales Leaders** | Kris Krug | Peter Bittner | Sales teams, BDRs, account executives |
 | **Journalists** | Pete Pachal | Peter Bittner | Journalists, editors, media professionals |
 | **Healthcare** | Peter Bittner | Kris Krug | Doctors, nurses, healthcare administrators |
@@ -211,22 +209,22 @@ instructor-toolkit-2026/
 ## 📊 Expected Impact & ROI
 
 ### Current Performance (Baseline)
-- Average enrollments per cohort: 60-80 students
+- Average enrollments per cohort: 5-15 students
 - Primary acquisition: Word-of-mouth, organic search
 - Limited instructor-led marketing
 
 ### Projected Performance (With Toolkit)
-- Expected enrollments per cohort: 145-215 students
-- **Increase:** 120%+ growth
+- Expected enrollments per cohort: 50-100+ students
+- **Increase:** 400-600%+ growth
 - Primary acquisition: Systematic discount distribution + instructor content marketing
 
 ### Per-Instructor Breakdown
 
 | Instructor | Programs Teaching | Expected Enrollments | Revenue Impact |
 |------------|-------------------|----------------------|----------------|
-| **Kris Krug** | 7 programs (primary: Creative, Sales) | 60-90 | $72,000-$108,000 |
-| **Peter Bittner** | 6 programs | 50-75 | $60,000-$90,000 |
-| **Pete Pachal** | 2 programs (exclusive: PR & Comms) | 35-50 | $42,000-$60,000 |
+| **Kris Krug** | 7 programs (primary: Creative, Sales) | 20-35 | $24,000-$42,000 |
+| **Peter Bittner** | 7 programs | 20-35 | $24,000-$42,000 |
+| **Pete Pachal** | 2 programs (primary: PR & Comms, Journalists) | 10-30 | $12,000-$36,000 |
 
 **Note:** Pete's Media Copilot newsletter alone expected to drive 30-50 enrollments from single feature.
 
@@ -396,11 +394,11 @@ This toolkit provides samples and templates. Instructors should create additiona
 - **Discount Codes:** `KRIS-INNER20-Q1`, `KRIS-NETWORK15-Q1`, `KRIS-PROMO10-Q1`
 
 ### PR & Communications
-- **Exclusive Instructor:** Pete Pachal (NOT taught by Kris or Peter)
+- **Primary Instructor:** Pete Pachal, Co-instructor: Peter Bittner
 - **Emphasis:** Grounded tools, hallucination mitigation, career safety
 - **Key Stories:** Lizzie (best coverage recap), Simone (interactive dashboards), Angela (fact-checking story)
 - **Distribution:** Media Copilot newsletter feature in Week -2 (expected 30-50 enrollments)
-- **Discount Codes:** `PETE-INNER20-Q1`, `PETE-NETWORK15-Q1`, `PETE-PROMO10-Q1`
+- **Discount Codes:** `PETE-INNER20-Q1` (Pete primary), `PETER-NETWORK15-Q1` (Peter for systematic frameworks)
 
 ### Sales Leaders
 - **Primary Instructor:** Kris Krug, Co-instructor: Peter Bittner

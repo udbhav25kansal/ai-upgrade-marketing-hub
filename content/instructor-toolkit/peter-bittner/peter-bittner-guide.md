@@ -1,7 +1,7 @@
 # Peter Bittner - Instructor Toolkit
 ## Personalized Content & Distribution Guide
 
-**Programs:** Creative Professionals, Sales Leaders, Healthcare, HR, Legal, Journalists (Co-instructor)
+**Programs:** All 7 Programs (Creative Professionals, PR & Communications, Sales Leaders, Journalists, Healthcare, HR, Legal)
 **Voice:** Few weeks ahead + practical frameworks
 **Toolkit Version:** 1.0 | December 2025
 
@@ -51,13 +51,14 @@ This democratizes expertise and removes impostor syndrome. You don't need to be 
 ## 📧 How to Use Email Templates
 
 ### Step 1: Choose Your Program(s)
-You teach 6 programs:
+You teach all 7 programs:
 - Creative Professionals
+- PR & Communications (co-instructor with Pete Pachal)
 - Sales Leaders
+- Journalists (co-instructor with Pete Pachal)
 - Healthcare Professionals
 - HR Professionals
 - Legal Professionals
-- Journalists (co-instructor with Pete Pachal)
 
 ### Step 2: Get the Email Sequence
 Navigate to: `upgrade-marketing-hub/[program]/emails/6-email-launch-sequence.md`

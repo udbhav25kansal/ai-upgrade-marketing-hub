@@ -92,27 +92,28 @@
 
 **Programs He Teaches:**
 1. Creative Professionals (Co-instructor)
-2. Sales Leaders (Co-instructor)
-3. Healthcare Professionals
-4. HR Professionals
-5. Legal Professionals
-6. Journalists (Co-instructor)
+2. PR & Communications (Co-instructor)
+3. Sales Leaders (Co-instructor)
+4. Journalists (Co-instructor)
+5. Healthcare Professionals
+6. HR Professionals
+7. Legal Professionals
 
 **Content Needed:**
 
-**Blog Posts** (12 total = 2 per program × 6 programs)
+**Blog Posts** (14 total = 2 per program × 7 programs)
 - Emphasizing frameworks (POP, PRECISE, STAPLES)
 - "Few weeks ahead" teaching philosophy
 - Evidence-based optimism about AI's impact
 - Practical over theoretical approach
 
-**LinkedIn Posts** (30 total = 5 per program × 6 programs)
+**LinkedIn Posts** (35 total = 5 per program × 7 programs)
 - Patient educator tone
 - Systematic methodology focus
 - Student capstone highlights
 - Awareness → Experimentation → Integration stories
 
-**Email Templates** (18 total = 3 per program × 6 programs)
+**Email Templates** (21 total = 3 per program × 7 programs)
 - Academic + practitioner voice blend
 - Data-driven insights
 - Transformational arc emphasis
@@ -151,9 +152,9 @@
 | Instructor | Blog Posts | LinkedIn Posts | Email Templates | Total Pieces |
 |------------|------------|----------------|-----------------|--------------|
 | **Kris Krug** | 14 | 35 | 21 | 70 |
-| **Peter Bittner** | 12 | 30 | 18 | 60 |
+| **Peter Bittner** | 14 | 35 | 21 | 70 |
 | **Pete Pachal** | 4 | 10 | 6 | 20 |
-| **TOTAL** | **30** | **75** | **45** | **150** |
+| **TOTAL** | **32** | **80** | **48** | **160** |
 
 ---
 
@@ -263,10 +264,10 @@
 - Network Expansion: 80-120 enrollments (15% discount)
 - General Promotion: 40-60 enrollments (10% discount)
 
-**Total:** 145-215 enrollments per cohort (vs. 60-80 without systematic distribution)
+**Total:** 50-100+ enrollments per cohort (vs. 5-15 without systematic distribution)
 
 **Revenue Impact:**
-- Average increase: 120% enrollment growth
+- Average increase: 400-600%+ enrollment growth
 - ROI on toolkit creation: 15:1
 - Community growth: 2-3x network expansion
 
