@@ -120,6 +120,61 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="sidebar-section">
+                    <h3>Instructor Toolkit</h3>
+
+                    <button class="nav-item" onclick="loadToolkitContent('toolkit-overview')">
+                        📦 Toolkit Overview
+                    </button>
+                    <button class="nav-item" onclick="loadToolkitContent('toolkit-summary')">
+                        📊 Executive Summary
+                    </button>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('toolkit-overview-docs')">
+                            📋 Overview & Strategy
+                        </button>
+                        <div id="toolkit-overview-docs-menu" class="submenu">
+                            <button onclick="loadToolkitContent('overview/master-overview')">📚 Master Overview</button>
+                            <button onclick="loadToolkitContent('graphics-specs/graphics-specifications')">🎨 Graphics Specs</button>
+                            <button onclick="loadToolkitContent('discount-strategy/discount-distribution')">💰 Discount Strategy</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('kris-krug')">
+                            👨‍🎨 Kris Krug
+                        </button>
+                        <div id="kris-krug-menu" class="submenu">
+                            <button onclick="loadToolkitContent('kris-krug/kris-krug-guide')">📖 Complete Guide</button>
+                            <button onclick="loadToolkitContent('kris-krug/blog-posts/SAMPLE-creative-pros-bathtub-vibe-coding')">✍️ Blog Sample</button>
+                            <button onclick="loadToolkitContent('kris-krug/linkedin-posts/SAMPLE-creative-pros-posts')">📱 LinkedIn Posts</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('peter-bittner')">
+                            👨‍🏫 Peter Bittner
+                        </button>
+                        <div id="peter-bittner-menu" class="submenu">
+                            <button onclick="loadToolkitContent('peter-bittner/peter-bittner-guide')">📖 Complete Guide</button>
+                            <button onclick="loadToolkitContent('peter-bittner/blog-posts/SAMPLE-few-weeks-ahead-philosophy')">✍️ Blog Sample</button>
+                            <button onclick="loadToolkitContent('peter-bittner/linkedin-posts/SAMPLE-all-programs-posts')">📱 LinkedIn Posts</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('pete-pachal')">
+                            📰 Pete Pachal
+                        </button>
+                        <div id="pete-pachal-menu" class="submenu">
+                            <button onclick="loadToolkitContent('pete-pachal/pete-pachal-guide')">📖 Complete Guide</button>
+                            <button onclick="loadToolkitContent('pete-pachal/blog-posts/SAMPLE-pr-comms-grounded-tools')">✍️ Blog Sample</button>
+                            <button onclick="loadToolkitContent('pete-pachal/linkedin-posts/SAMPLE-pr-journalism-posts')">📱 LinkedIn Posts</button>
+                        </div>
+                    </div>
+                </div>
             </nav>
 
             <!-- Content Area -->
@@ -127,7 +182,7 @@
                 <div id="content-display">
                     <div class="welcome-message">
                         <h2>Welcome to the AI Upgrade Marketing Hub</h2>
-                        <p>Select a program from the sidebar to view marketing materials, or click "Marketing Hub Overview" for details.</p>
+                        <p>Select a program from the sidebar to view marketing materials, check out the Instructor Toolkit for discount code distribution, or click "Marketing Hub Overview" for details.</p>
                         <div class="stats-grid">
                             <div class="stat-card">
                                 <h3>7</h3>
@@ -144,6 +199,14 @@
                             <div class="stat-card">
                                 <h3>42</h3>
                                 <p>Email Templates</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>3</h3>
+                                <p>Instructor Toolkits</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>14</h3>
+                                <p>Toolkit Resources</p>
                             </div>
                         </div>
                     </div>

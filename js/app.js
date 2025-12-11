@@ -43,6 +43,35 @@ function toggleProgram(programId) {
     menu.classList.toggle('active');
 }
 
+// Load instructor toolkit content
+async function loadToolkitContent(contentPath) {
+    const contentDisplay = document.getElementById('content-display');
+
+    // Show loading state
+    contentDisplay.innerHTML = '<div class="loading">Loading content...</div>';
+
+    // Build file path
+    const filePath = `content/instructor-toolkit/${contentPath}.md`;
+
+    try {
+        const response = await fetch(filePath);
+        if (!response.ok) throw new Error('File not found');
+
+        const markdown = await response.text();
+
+        // Create title from path
+        const pathParts = contentPath.split('/');
+        const fileName = pathParts[pathParts.length - 1];
+        const title = fileName
+            .replace(/-/g, ' ')
+            .replace(/\b\w/g, l => l.toUpperCase());
+
+        displayMarkdown(markdown, `Instructor Toolkit - ${title}`);
+    } catch (error) {
+        showError(`Failed to load instructor toolkit content from ${filePath}`);
+    }
+}
+
 // Load and display content
 async function loadContent(program, contentType) {
     const contentDisplay = document.getElementById('content-display');
