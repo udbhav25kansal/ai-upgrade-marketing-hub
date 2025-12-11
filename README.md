@@ -39,7 +39,9 @@ Each program includes 5 comprehensive content types:
 
 ## 🌐 Live Site
 
-Visit the live site at: **[Your GitHub Pages URL will be here]**
+**🚀 [Visit the Live Marketing Hub →](https://udbhav25kansal.github.io/ai-upgrade-marketing-hub/)**
+
+The site is fully deployed and accessible at: https://udbhav25kansal.github.io/ai-upgrade-marketing-hub/
 
 ## 🚀 Local Development
 
@@ -47,7 +49,7 @@ To run this site locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[your-username]/ai-upgrade-marketing-hub.git
+   git clone https://github.com/udbhav25kansal/ai-upgrade-marketing-hub.git
    cd ai-upgrade-marketing-hub
    ```
 
