@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Upgrade Marketing Hub - The Upgrade AI</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>🚀 AI Upgrade Marketing Hub</h1>
+            <p>Marketing Assets Library for The Upgrade AI Training Programs</p>
+        </header>
+
+        <!-- Main Layout -->
+        <div class="main-layout">
+            <!-- Sidebar Navigation -->
+            <nav class="sidebar">
+                <div class="sidebar-section">
+                    <h3>Overview</h3>
+                    <button class="nav-item" onclick="loadContent('overview')">
+                        📋 Marketing Hub Overview
+                    </button>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Programs</h3>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('creative-pros')">
+                            🎨 Creative Professionals
+                        </button>
+                        <div id="creative-pros-menu" class="submenu">
+                            <button onclick="loadContent('creative-pros', 'quotes')">💬 Quotes</button>
+                            <button onclick="loadContent('creative-pros', 'stories')">📖 Stories</button>
+                            <button onclick="loadContent('creative-pros', 'social')">📱 LinkedIn Posts</button>
+                            <button onclick="loadContent('creative-pros', 'playbook')">📚 Playbook</button>
+                            <button onclick="loadContent('creative-pros', 'emails')">📧 Email Sequence</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('pr-comms')">
+                            📢 PR & Communications
+                        </button>
+                        <div id="pr-comms-menu" class="submenu">
+                            <button onclick="loadContent('pr-comms', 'quotes')">💬 Quotes</button>
+                            <button onclick="loadContent('pr-comms', 'stories')">📖 Stories</button>
+                            <button onclick="loadContent('pr-comms', 'social')">📱 LinkedIn Posts</button>
+                            <button onclick="loadContent('pr-comms', 'playbook')">📚 Playbook</button>
+                            <button onclick="loadContent('pr-comms', 'emails')">📧 Email Sequence</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('sales-leaders')">
+                            💼 Sales Leaders
+                        </button>
+                        <div id="sales-leaders-menu" class="submenu">
+                            <button onclick="loadContent('sales-leaders', 'quotes')">💬 Quotes</button>
+                            <button onclick="loadContent('sales-leaders', 'stories')">📖 Stories</button>
+                            <button onclick="loadContent('sales-leaders', 'social')">📱 LinkedIn Posts</button>
+                            <button onclick="loadContent('sales-leaders', 'playbook')">📚 Playbook</button>
+                            <button onclick="loadContent('sales-leaders', 'emails')">📧 Email Sequence</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('journalists')">
+                            ✍️ Journalists
+                        </button>
+                        <div id="journalists-menu" class="submenu">
+                            <button onclick="loadContent('journalists', 'quotes')">💬 Quotes</button>
+                            <button onclick="loadContent('journalists', 'stories')">📖 Stories</button>
+                            <button onclick="loadContent('journalists', 'social')">📱 LinkedIn Posts</button>
+                            <button onclick="loadContent('journalists', 'playbook')">📚 Playbook</button>
+                            <button onclick="loadContent('journalists', 'emails')">📧 Email Sequence</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('healthcare-pros')">
+                            🏥 Healthcare Professionals
+                        </button>
+                        <div id="healthcare-pros-menu" class="submenu">
+                            <button onclick="loadContent('healthcare-pros', 'quotes')">💬 Quotes</button>
+                            <button onclick="loadContent('healthcare-pros', 'stories')">📖 Stories</button>
+                            <button onclick="loadContent('healthcare-pros', 'social')">📱 LinkedIn Posts</button>
+                            <button onclick="loadContent('healthcare-pros', 'playbook')">📚 Playbook</button>
+                            <button onclick="loadContent('healthcare-pros', 'emails')">📧 Email Sequence</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('hr-pros')">
+                            👥 HR Professionals
+                        </button>
+                        <div id="hr-pros-menu" class="submenu">
+                            <button onclick="loadContent('hr-pros', 'quotes')">💬 Quotes</button>
+                            <button onclick="loadContent('hr-pros', 'stories')">📖 Stories</button>
+                            <button onclick="loadContent('hr-pros', 'social')">📱 LinkedIn Posts</button>
+                            <button onclick="loadContent('hr-pros', 'playbook')">📚 Playbook</button>
+                            <button onclick="loadContent('hr-pros', 'emails')">📧 Email Sequence</button>
+                        </div>
+                    </div>
+
+                    <div class="program-group">
+                        <button class="program-btn" onclick="toggleProgram('legal-pros')">
+                            ⚖️ Legal Professionals
+                        </button>
+                        <div id="legal-pros-menu" class="submenu">
+                            <button onclick="loadContent('legal-pros', 'quotes')">💬 Quotes</button>
+                            <button onclick="loadContent('legal-pros', 'stories')">📖 Stories</button>
+                            <button onclick="loadContent('legal-pros', 'social')">📱 LinkedIn Posts</button>
+                            <button onclick="loadContent('legal-pros', 'playbook')">📚 Playbook</button>
+                            <button onclick="loadContent('legal-pros', 'emails')">📧 Email Sequence</button>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+
+            <!-- Content Area -->
+            <main class="content-area">
+                <div id="content-display">
+                    <div class="welcome-message">
+                        <h2>Welcome to the AI Upgrade Marketing Hub</h2>
+                        <p>Select a program from the sidebar to view marketing materials, or click "Marketing Hub Overview" for details.</p>
+                        <div class="stats-grid">
+                            <div class="stat-card">
+                                <h3>7</h3>
+                                <p>Programs</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>350+</h3>
+                                <p>LinkedIn Posts</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>70</h3>
+                                <p>Transformation Stories</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>42</h3>
+                                <p>Email Templates</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
